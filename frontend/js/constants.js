@@ -1,9 +1,9 @@
 const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const chain = 'rinkeby'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Long live Urbnation";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'You think you know the scene, the destruction of historic buildings, replaced by cities. Those cities fabricate amenities and resources, pouring into urban areas that portray a facade and in reality, have very little or nothing at all. A concrete jungle is developed, with so-called slums being replaced by far worse ones. Primitive nature distorted. The ecosystem has completely and utterly failed. Carnage, in a reality where nothing is real. The city is not a concrete jungle… it’s a human zoo. Introducing a collection of 10999 URBS brought to you by Urban Labs. Representing a breath of fresh air amidst the concrete jungle of anonymous urban life and an opportunity to rise above. Each trait is hand drawn and aesthetically unique. Inspired by everything we love and fear. Mother natures war against humanity. Humanities systematic war against humanity. Even though the world is f*cked. We are doing it for the culture. Long live URBnation';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
